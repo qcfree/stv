@@ -20,3 +20,6 @@ CCTV14 少儿,http://221.213.43.82:8888/newlive/live/hls/16/live.m3u8
 CCTV15 音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV17 农业农村,http://cyz32.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d.m3u8?bitrate=2300&pt=5
+CCTV18,http://39.134.32.102:6610/270000001111/1110000319/index.m3u8?IASHttpSessionId=OTT
+CCTV19,http://39.134.32.102:6610/270000001111/1110000320/index.m3u8?IASHttpSessionId=OTT
+CCTV20,http://39.134.32.102:6610/270000001111/1110000321/index.m3u8?IASHttpSessionId=OTT
